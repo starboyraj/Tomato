@@ -1,0 +1,10 @@
+.logo {
+  position: absolute;   /* ya fixed, neeche explain kiya */
+  top: 20px;
+  left: 20px;
+
+  width: 140px;         /* size control */
+  height: auto;
+
+  cursor: pointer;
+}

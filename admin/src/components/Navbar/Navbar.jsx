@@ -1,5 +1,6 @@
 import React from 'react'
-import {assets} from '../../assets/assets'
+import './Navbar.css'
+import {assets} from '../../assets/assets.js'
 
 const Navbar = () => {
   return (
