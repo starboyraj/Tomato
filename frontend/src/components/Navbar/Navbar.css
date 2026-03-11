@@ -1,13 +1,12 @@
 .navbar{
-    padding:  0px;
+    padding:  20px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .navbar .logo {
-    width: 210px;
-    height: 130px;
+    width: 150px;
 }
 
 .navbar-menu {

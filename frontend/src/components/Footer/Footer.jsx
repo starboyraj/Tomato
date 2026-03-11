@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer' id='footer'>
        <div className="footer-content">
         <div className="footer-content-left">
-            <p>Hungries connects you with the best restaurants around you. Discover new flavors, enjoy fast and reliable delivery, and experience food ordering made simple and convenient.</p>
+            <p>Tomato connects you with the best restaurants around you. Discover new flavors, enjoy fast and reliable delivery, and experience food ordering made simple and convenient.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt='' />
                 <img src={assets.twitter_icon} alt='' />
@@ -27,13 +27,13 @@ const Footer = () => {
               <h2>GET IN TOUCH</h2>
               <ul>
                 <li>+91 8882892501</li>
-                <li>contact@hungries.com</li>
+                <li>contact@Tomato.com</li>
               </ul>
         </div>
      </div>
      <hr />
      <p className='footer-copyright'>By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners
-2026 © Hungries™ Ltd. All rights reserved.</p>
+2026 © Tomato™ Ltd. All rights reserved.</p>
     </div>
   )
 }
