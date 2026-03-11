@@ -88,15 +88,6 @@ npm install
 
 ---
 
-## 🔑 Environment Variables
-
-Create a `.env` file inside the backend folder and add:
-
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-STRIPE_SECRET_KEY=your_stripe_secret_key
-
----
 
 ## ▶️ Run the Project
 
