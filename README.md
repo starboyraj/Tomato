@@ -65,12 +65,7 @@ Tomato
 
 ## ⚙️ Installation & Setup
 
-### Clone the repository
-
-git clone https://github.com/starboyraj/Tomato-Food-Delivery.git
-
 ### Install dependencies
-
 Frontend
 
 cd frontend
@@ -114,6 +109,12 @@ npm run dev
 * Integrating Stripe payment gateway
 
 ---
+
+## 🚀 Live Demo
+
+Frontend: [https://tomato-bice.vercel.app  ](https://tomato-bice.vercel.app/)
+Admin Panel: [https://your-admin-project.vercel.app ](https://tomato-apg8.vercel.app/) 
+Backend API: [https://tomato-h0rn.onrender.com](https://tomato-h0rn.onrender.com)
 
 ## 👨‍💻 Author
 
