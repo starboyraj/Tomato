@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
   res.send("API Working");
 });
 
-console.log("Stripe ENV:", process.env.STRIPE_SECRET_KEYY);
+console.log("Stripe ENV:", process.env.STRIPE_SECRET_KEY);
 
 app.listen(port, () => {
   console.log(`Server Started on http://localhost:${port}`);
